@@ -1,7 +1,7 @@
 # If you create your own Polymer components, please maintain your own AUTHORS files
 # This is the official list of Polymer authors for copyright purposes.
 # This file is distinct from the CONTRIBUTORS files.
-# See the latter at http://polymer.github.io/CONTRIBUTORS for an explanation.
+# See the latter at http://polymer.github.io/CONTRIBUTORS.txt for an explanation.
 
 # Names should be added to this file as:
 # Name or Organization <email address>
