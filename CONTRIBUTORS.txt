@@ -38,6 +38,7 @@ Eric Bidelman <ebidel@gmail.com>
 Erik Arvidsson <arv@google.com>
 Erik Isaksen <erik.isaksen@3pillarglobal.com>
 Frankie Fu <ffu@google.com>
+Günter Zöchbauer <guenter@gzoechbauer.com>
 Igor Minar <igor@angularjs.org>
 jackyjjc <jackyjjc@google.com>
 James Strachan <james.strachan@gmail.com>
