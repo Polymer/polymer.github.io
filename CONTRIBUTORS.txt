@@ -15,6 +15,7 @@ agrieve <agrieve@chromium.org>
 Alan Cutter <alancutter@chromium.org>
 Alex Hancock <alex@alexhancock.com>
 Alex Komoroske <jkomoros@gmail.com>
+Alexander Shusta <alexander.shusta@gmail.com>
 Angelina Fabbro <angelinafabbro@gmail.com>
 Arron Schaar <aschaar@gmail.com>
 Arthur Evans <arthure@google.com>
