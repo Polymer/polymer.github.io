@@ -9,6 +9,7 @@
 # Names should be added to this file as:
 #     Name <email address>
 
+Abhinav I <abhinav.qd@gmail.com>
 Adam Klein <adamk@chromium.org>
 Addy Osmani <addyosmani@gmail.com>
 agrieve <agrieve@chromium.org>
