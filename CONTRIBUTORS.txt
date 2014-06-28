@@ -77,6 +77,7 @@ Rick Byers <rbyers@google.com>
 Rob Dodson <lets.email.rob@gmail.com>
 Ryan Neufeld <ryan@rkn.io>
 Sandy Phan <sandyphan@google.com>
+Scott Beeson <sbeeson@gmail.com>
 Scott González <scott.gonzalez@gmail.com>
 Scott J. Miles <sjmiles@google.com>
 secretrobotron <secretrobotron@gmail.com>
