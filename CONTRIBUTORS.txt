@@ -26,6 +26,7 @@ Boris Smus <boris@smus.com>
 Brandon Satrom <bsatrom@gmail.com>
 Brian Terlson <brian.terlson@gmail.com>
 Carlos Aguayo <carlos.aguayo@gmail.com>
+Casey Dwyer <caseydwyer@gmail.com>
 Christian <me@rndm.de>
 chrone <charlesalva@gmail.com>
 Clayton Watts <cwatts@google.com>
