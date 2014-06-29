@@ -68,6 +68,7 @@ Paul DelRe <pdelre@gmail.com>
 Pete Blois <blois@google.com>
 Peter Wong <peter.wm.wong@gmail.com>
 Philip Jägenstedt <philipj@opera.com>
+Prateek Saxena <prtksxna@gmail.com>
 Priyank <singhal.priyank@gmail.com>
 Rafael Weinstein <rafaelw@chromium.org>
 Randy Merrill <Zoramite@gmail.com>
