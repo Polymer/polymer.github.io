@@ -96,6 +96,7 @@ Tim Statler <timstatler@chromium.org>
 Timo Tijhof <krinklemail@gmail.com>
 Umar Hansa <umar.hansa@gmail.com>
 Victor Berchet <victor@suumit.com>
+Vikas Singhal <vikas.programmer@gmail.com>
 Vinod Kurup <vinod@kurup.com>
 Wesley Cho <wesley.cho@gmail.com>
 wh0 <microrffr@gmail.com>
