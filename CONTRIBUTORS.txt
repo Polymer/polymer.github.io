@@ -36,6 +36,7 @@ Danny "TechnoCat" Fritz <dannyfritz@gmail.com>
 David Cruz <davidcv5@gmail.com>
 Dominic Cooney <dominicc@chromium.org>
 Douglas Stockwell <dstockwell@chromium.org>
+Drew Wells <drew.wells00@gmail.com>
 edwin xue <kongpo0412@gmail.com>
 Eric Bidelman <ebidel@gmail.com>
 Erik Arvidsson <arv@google.com>
