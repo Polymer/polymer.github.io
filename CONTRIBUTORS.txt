@@ -55,6 +55,7 @@ Jonas <jonas.aschenbrenner@gmail.com>
 Joshua Peek <josh@joshpeek.com>
 Kris Borchers <kris.borchers@gmail.com>
 labriola <labriola@digitalprimates.net>
+Leon de Rijke <leonderijke@gmail.com>
 Mark Healey <mark.healey@markit.com>
 Matthew McNulty <mmcnulty@google.com>
 Max Heinritz <meh@chromium.org>
