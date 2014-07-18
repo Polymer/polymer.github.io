@@ -69,6 +69,7 @@ Pascal Precht <pascal.precht@googlemail.com>
 PatrickJS <github@gdi2290.com>
 Paul DelRe <pdelre@gmail.com>
 Pete Blois <blois@google.com>
+Peter Gasston <peter@broken-links.com>
 Peter Wong <peter.wm.wong@gmail.com>
 Philip Jägenstedt <philipj@opera.com>
 Prateek Saxena <prtksxna@gmail.com>
