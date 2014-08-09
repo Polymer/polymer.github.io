@@ -75,6 +75,7 @@ Prateek Saxena <prtksxna@gmail.com>
 Priyank <singhal.priyank@gmail.com>
 Rafael Weinstein <rafaelw@chromium.org>
 Randy Merrill <Zoramite@gmail.com>
+Ray Nicholus <ray@garstasio.com>
 Razvan Caliman <razvan.caliman@gmail.com>
 Renato Mangini <mangini@gmail.com>
 Renee Wright <rjwright@google.com>
