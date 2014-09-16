@@ -34,6 +34,7 @@ Cristian Carlesso <kentaromiura@gmail.com>
 Daniel Freedman <dfreedm@google.com>
 Danny "TechnoCat" Fritz <dannyfritz@gmail.com>
 David Cruz <davidcv5@gmail.com>
+David James <davidcjames@gmail.com>
 Dominic Cooney <dominicc@chromium.org>
 Douglas Stockwell <dstockwell@chromium.org>
 edwin xue <kongpo0412@gmail.com>
