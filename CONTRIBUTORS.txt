@@ -89,6 +89,7 @@ Seth Ladd <sethladd@gmail.com>
 Shane Stephens <shanestephens@google.com>
 Sigmund Cherem <sigmund@google.com>
 Steph <stephmc.tdu@gmail.com>
+Stephen Thorne <stephen@thorne.id.au>
 Steve Block <steveblock@chromium.org>
 Steve Orvell <sorvell@google.com>
 Thomas Bassetto <tbassetto@gmail.com>
