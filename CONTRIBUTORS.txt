@@ -64,6 +64,7 @@ Michael Squashic <msquashic@google.com>
 Michael Stillwell <mjs@beebo.org>
 Mike Lawther <mikelawther@chromium.org>
 mrmrs <hi@mrmrs.cc>
+Mateus Ortiz <mateusprado51@gmail.com>
 Niggler <nirk.niggler@gmail.com>
 Pascal Precht <pascal.precht@googlemail.com>
 PatrickJS <github@gdi2290.com>
