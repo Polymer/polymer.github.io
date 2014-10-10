@@ -91,6 +91,7 @@ Sandy Phan <sandyphan@google.com>
 Scott González <scott.gonzalez@gmail.com>
 Scott J. Miles <sjmiles@google.com>
 secretrobotron <secretrobotron@gmail.com>
+Seggy Umboh <seg@seg.gy>
 Seth Ladd <sethladd@gmail.com>
 Shane Stephens <shanestephens@google.com>
 Sigmund Cherem <sigmund@google.com>
