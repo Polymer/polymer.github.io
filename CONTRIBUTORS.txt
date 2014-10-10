@@ -66,6 +66,7 @@ Michael Stillwell <mjs@beebo.org>
 Mike Lawther <mikelawther@chromium.org>
 mrmrs <hi@mrmrs.cc>
 Niggler <nirk.niggler@gmail.com>
+nekova <nekova07@gmail.com>
 Pascal Precht <pascal.precht@googlemail.com>
 PatrickJS <github@gdi2290.com>
 Paul DelRe <pdelre@gmail.com>
