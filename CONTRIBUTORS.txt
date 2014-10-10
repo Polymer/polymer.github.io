@@ -85,6 +85,7 @@ Renato Mangini <mangini@gmail.com>
 Renee Wright <rjwright@google.com>
 Rick Byers <rbyers@google.com>
 Rob Dodson <lets.email.rob@gmail.com>
+Rob Moran <rob@thegecko.org>
 Ryan Neufeld <ryan@rkn.io>
 Sandy Phan <sandyphan@google.com>
 Scott González <scott.gonzalez@gmail.com>
