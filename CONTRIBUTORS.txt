@@ -112,5 +112,6 @@ Vikas Singhal <vikas.programmer@gmail.com>
 Vinod Kurup <vinod@kurup.com>
 Wesley Cho <wesley.cho@gmail.com>
 wh0 <microrffr@gmail.com>
+Yang Wei Lim <yangweilim21@gmail.com>
 yuin <yuin@google.com>
 Yvonne Yip <ykyyip@google.com>
