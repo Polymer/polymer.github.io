@@ -33,6 +33,7 @@ Clayton Watts <cwatts@google.com>
 Cristian Carlesso <kentaromiura@gmail.com>
 Daniel Freedman <dfreedm@google.com>
 Danny "TechnoCat" Fritz <dannyfritz@gmail.com>
+David Calhoun <dcalhoun@google.com>
 David Cruz <davidcv5@gmail.com>
 David James <davidcjames@gmail.com>
 Dominic Cooney <dominicc@chromium.org>
