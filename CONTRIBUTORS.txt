@@ -12,6 +12,7 @@ Abhinav I <abhinav.qd@gmail.com>
 Adam Klein <adamk@chromium.org>
 Addy Osmani <addyosmani@gmail.com>
 agrieve <agrieve@chromium.org>
+AJ Ortega <ajo@google.com>
 Alan Cutter <alancutter@chromium.org>
 Alex Hancock <alex@alexhancock.com>
 Alex Komoroske <jkomoros@gmail.com>
