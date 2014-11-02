@@ -57,6 +57,7 @@ Joel Kuzmarski <leoj3n@gmail.com>
 John Messerly <jmesserly@google.com>
 Jonas <jonas.aschenbrenner@gmail.com>
 Joshua Peek <josh@joshpeek.com>
+Keanu Lee <keanulee517@gmail.com>
 Kris Borchers <kris.borchers@gmail.com>
 labriola <labriola@digitalprimates.net>
 Leon de Rijke <leonderijke@gmail.com>
