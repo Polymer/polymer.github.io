@@ -33,6 +33,7 @@ Chris Bateman <chrisb808@gmail.com>
 chrone <charlesalva@gmail.com>
 Clayton Watts <cwatts@google.com>
 Cristian Carlesso <kentaromiura@gmail.com>
+Damián Garro <damian.garro.mst@gmail.com>
 Daniel Freedman <dfreedm@google.com>
 Danny "TechnoCat" Fritz <dannyfritz@gmail.com>
 David Cruz <davidcv5@gmail.com>
