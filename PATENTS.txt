@@ -1,3 +1,7 @@
+(If you create your own polymer components, please do not copy this
+file into it, as these patent grants are specific to the code that
+Google distributes)
+
 Additional IP Rights Grant (Patents)
 
 "This implementation" means the copyrightable works distributed by
