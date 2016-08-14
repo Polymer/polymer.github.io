@@ -49,6 +49,7 @@ Frankie Fu <ffu@google.com>
 Günter Zöchbauer <guenter@gzoechbauer.com>
 Igor Minar <igor@angularjs.org>
 jackyjjc <jackyjjc@google.com>
+Jake Johnson <jake@divshot.com>
 James Strachan <james.strachan@gmail.com>
 Jelle van den Hooff <jelle@vandenhooff.name>
 Jelte Liebrand <jliebrand@google.com>
