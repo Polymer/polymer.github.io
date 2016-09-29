@@ -25,6 +25,7 @@ Becky Armstrong <rearmstrong@google.com>
 Benjamin Keen <ben.keen@gmail.com>
 Boris Smus <boris@smus.com>
 Brandon Satrom <bsatrom@gmail.com>
+Brian Pfretzschner <brian.pfretzschner@gmail.com>
 Brian Terlson <brian.terlson@gmail.com>
 Carlos Aguayo <carlos.aguayo@gmail.com>
 Casey Dwyer <caseydwyer@gmail.com>
