@@ -100,6 +100,7 @@ secretrobotron <secretrobotron@gmail.com>
 Seggy Umboh <seg@seg.gy>
 Seth Ladd <sethladd@gmail.com>
 Shane Stephens <shanestephens@google.com>
+Sharoon Thomas <sharoon.thomas@openlabs.co.in>
 Sigmund Cherem <sigmund@google.com>
 Steph <stephmc.tdu@gmail.com>
 Stephen Thorne <stephen@thorne.id.au>
